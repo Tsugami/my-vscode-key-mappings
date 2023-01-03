@@ -33,3 +33,13 @@
 | Format Document                              |        | `SHIFT`+`ALT` + `F`             |                   |            |
 | Undo                                         | 😎     | `CTRL`+`Z`                      |                   |            |
 | Redo                                         |        | `CTRL`+`Y`                      |                   |            |
+
+## Refactoring
+
+With the code select (you can use `CTRL+l` to select the line), type `ctrl+.` to list the operators to refactor or "wrapper".
+
+refactor operators:
+
+- move code to function, arrow function, function out scope.
+- separate object to a variable
+- ...
