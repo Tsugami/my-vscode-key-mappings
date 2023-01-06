@@ -3,6 +3,7 @@
 | Command                                      | Status | Keybinding                      | Custom Keybinding | Category   |
 | -------------------------------------------- | ------ | ------------------------------- | ----------------- | ---------- |
 | Cursor undo                                  |        | `CTRL` + `U`                    |                   |            |
+| Close All files                              | 😎     | `CTRL` + `K` + `CTRL` + `W`     |                   |            |
 | Add Selection To Next Find Match             | 😎     | `CTRL` + `D`                    |                   |            |
 | Save file                                    | 😎     | `CTRL` + `S`                    |                   |            |
 | Rename Symbol                                | 😎     | `F2`                            |                   |            |
